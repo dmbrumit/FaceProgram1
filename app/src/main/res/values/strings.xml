@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceProgram1</string>
+
+    <string name="title_activity_facedetect">facedetect</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
